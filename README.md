@@ -2,6 +2,8 @@
 
 ## Instalar dependencias
 
+Tener que en cuenta que las versiones de chrome y chromedriver deben de ser 86 
+
 Instalar dependencias con npm
 
 ```
