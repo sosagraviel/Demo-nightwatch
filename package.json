@@ -9,10 +9,10 @@
   "author": "Graviel Sosa",
   "license": "ISC",
   "dependencies": {
-    "nightwatch": "^0.9.16",
-    "selenium-server": "^3.6.0"
+    "nightwatch": "^1.5.1",
+    "selenium-server": "^3.9.1"
   },
   "devDependencies": {
-    "chromedriver": "^2.46.0"
+    "chromedriver": "^86.0.0"
   }
 }
