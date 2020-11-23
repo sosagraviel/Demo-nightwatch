@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="4">
+
+  <testsuite name="example2.searchOnParadigmaMultiSteps"
+    errors="0" failures="0" hostname="" id="" package="example2" skipped="0"
+    tests="4" time="47.46" timestamp="Sat, 21 Nov 2020 22:25:36 GMT">
+  
+    <testcase name="Paso 1: Ingresar a la sección Careers" classname="example2.searchOnParadigmaMultiSteps" time="39.00" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Paso 2: Ingresar al formulario de Join our team(A Culture Of Innovation)" classname="example2.searchOnParadigmaMultiSteps" time="0.7720" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Paso 3: Ingresar datos al formulario" classname="example2.searchOnParadigmaMultiSteps" time="0.5290" assertions="0">
+    </testcase>
+  
+    <testcase name="Paso 4: Validar y cerrar pagina" classname="example2.searchOnParadigmaMultiSteps" time="7.161" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
