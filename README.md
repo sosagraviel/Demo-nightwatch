@@ -2,7 +2,7 @@
 
 ## Instalar dependencias
 
-Tener que en cuenta que las versiones de chrome y chromedriver deben de ser 86 
+Verificar antes de hacer npm install que las versiones de chrome y chromedriver sean las mismas. 
 
 Instalar dependencias con npm
 
